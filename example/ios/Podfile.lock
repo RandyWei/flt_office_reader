@@ -1,0 +1,22 @@
+PODS:
+  - flt_office_reader (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - flt_office_reader (from `.symlinks/plugins/flt_office_reader/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  flt_office_reader:
+    :path: ".symlinks/plugins/flt_office_reader/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  flt_office_reader: 74ce99dac3aca40459d30bc17f167726f4fc1891
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3
